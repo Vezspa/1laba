@@ -1,0 +1,69 @@
+﻿  Decomposition.cpp
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(26,19): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(26,34): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(30,19): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(30,34): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(39,34): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(39,48): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(41,23): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(41,38): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(48,34): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(48,48): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(50,23): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(50,39): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(50,60): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(97,35): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(97,49): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(98,36): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(99,35): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(112,36): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(112,50): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Decomposition.cpp(113,35): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Matrix.cpp
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(45,41): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(46,26): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(46,52): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(47,26): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(59,40): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(60,25): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(65,19): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(65,61): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(81,27): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(206,44): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(207,29): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(207,56): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(208,29): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(224,27): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(233,42): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(234,27): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(238,21): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(238,65): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(297,18): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(297,34): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(297,51): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(320,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(321,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Matrix.cpp(323,30): warning C4018: <: несоответствие типов со знаком и без знака
+  Practical_work_5.cpp
+  Solver.cpp
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(19,79): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(80,56): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(95,20): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(122,20): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(136,37): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(141,16): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(153,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(160,12): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(160,25): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(163,13): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(163,35): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(163,48): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(173,12): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(173,25): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(176,13): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(176,35): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(176,48): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(178,12): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ivan\source\repos\ЧМЛаб5\ЧМЛаб5\Solver.cpp(178,38): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Создание кода...
+  ЧМЛаб5.vcxproj -> C:\Users\Ivan\source\repos\ЧМЛаб5\x64\Debug\ЧМЛаб5.exe
